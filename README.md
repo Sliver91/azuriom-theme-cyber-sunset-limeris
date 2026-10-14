@@ -6,6 +6,8 @@
 
 Full-screen artwork · animated light layer · vehicles on hologram circles · foldable-phone profile · live editor for administrators · light and dark mode
 
+[**Get it on the Azuriom Market**](https://market.azuriom.com/resources/254)
+
 **Limeris.fr by Sliver91** · [Discord support](https://discord.gg/4kV8pgC3Ck) · [limeris.fr](https://limeris.fr)
 
 ![Cyber Sunset, home page](screenshots/home-dark.jpg)
@@ -13,7 +15,7 @@ Full-screen artwork · animated light layer · vehicles on hologram circles · f
 </div>
 
 > **Premium theme.** This repository is a showcase only: it does not contain the theme files.
-> Cyber Sunset is sold on the [Azuriom Market](https://market.azuriom.com). Questions before buying? Ask on [Discord](https://discord.gg/4kV8pgC3Ck).
+> Cyber Sunset is sold on the Azuriom Market: **[get it here](https://market.azuriom.com/resources/254)**. Questions before buying? Ask on [Discord](https://discord.gg/4kV8pgC3Ck).
 
 ---
 
